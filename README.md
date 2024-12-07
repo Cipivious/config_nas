@@ -22,7 +22,7 @@
 
 ### 1. 下载脚本和 ddns-go 安装包
 
-首先，从 GitHub 仓库下载该脚本，并将 `ddns-go.tar.gz` 安装包放在与脚本相同的目录中。你可以从 [ddns-go 的 GitHub Releases 页面](https://github.com/jeessy2/ddns-go/releases) 下载适合的版本。
+首先，从 GitHub 仓库下载该脚本，并将 `ddns-go.tar.gz` 安装包放在与脚本相同的目录中。你可以从 [ddns-go 的 GitHub Releases 页面](https://github.com/jeessy2/ddns-go/releases) 下载适合的版本，该仓库默认使用 x86_64 的版本。
 
 ### 2. 运行脚本
 
